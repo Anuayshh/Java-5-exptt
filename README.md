@@ -14,9 +14,9 @@ Step 4 : Using the 'extends' keyword you can inherit classes, do the same with a
 Step 5 : Display the statements from the first and secomd Class using Solution Class in the terminal.
 
 # Program
-public class Employee
-{
-    public void display(){
+<br> public class Employee
+<br>{
+<br> public void display(){
     System.out.println("Name"+"\t"+"Year Of Joining"+"\t\t"+"Address");
     }
     public void employee(String name,int year,String Sal,String address)
