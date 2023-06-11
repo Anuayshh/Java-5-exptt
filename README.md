@@ -23,7 +23,7 @@ Step 5 : Display the statements from the first and secomd Class using Solution C
     {<br>
         System.out.println(name+"\t\t"+year+"\t\t"+address);<br>
 
-    }<br>
+   }<br>
 }<br>
 public class Solution {<br>
     public static void main(String[] args)<br>
